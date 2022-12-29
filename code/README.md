@@ -15,7 +15,7 @@
     
 # Code Overview:<br />
 
-#### Detailed Explaination of each line of the code is provided in the "comments" of each code. This section explains the code's overall use and logistics.<br />
+### Detailed Explaination of each line of the code is provided in the "comments" of each code. This section explains the code's overall use and logistics.<br />
 ## 1. Dino_Game_Code_RP2040:<br />
 1. dino.c - main dino game code, where all the helper programs combine to produce the overall game.<br />
 2. pwmsnd.c  - driver code for running PWM sound during the game.<br />
