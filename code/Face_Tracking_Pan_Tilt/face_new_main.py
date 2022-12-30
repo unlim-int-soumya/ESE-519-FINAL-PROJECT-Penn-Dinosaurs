@@ -1,4 +1,7 @@
-
+/*
+ * By Satyajeet Das
+ */
+/*
 # import the necessary libraries
 from picamera.array import PiRGBArray
 from picamera import PiCamera
