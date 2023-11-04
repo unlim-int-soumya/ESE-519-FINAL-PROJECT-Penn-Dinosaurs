@@ -1,5 +1,5 @@
 /*
- * By Soumya Dash
+ * By Soumya Dash, Satyajeet Das
  * Dino Game for PICO RP2040
  */
 /*
